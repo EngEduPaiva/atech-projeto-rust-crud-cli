@@ -1,5 +1,5 @@
 ### Arquivo: Cargo.toml
-```toml=
+---toml=
 [package]
 name = "inventario"
 version = "0.1.0"
